@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "129847328496",
+    "project_id": "ween-fe7f8",
+    "storage_bucket": "ween-fe7f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129847328496:android:1056ca85aca192934ccc35",
+        "android_client_info": {
+          "package_name": "com.example.ween"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129847328496-kfvp6rokf90ht84odpebko6vcium3p2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ween",
+            "certificate_hash": "9ee322eb4e0b37b3ebd6af0cde9fdad37c5fa9cc"
+          }
+        },
+        {
+          "client_id": "129847328496-t9tf7puoctno0pa2vt3jop4pdesl7so9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz9OPW7YK4E0bpipeBAURsHAWKf6fxRFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129847328496-t9tf7puoctno0pa2vt3jop4pdesl7so9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
